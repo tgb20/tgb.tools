@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 1
+img: Janus.png
+alt: janus-image
+dashboard-link: https://janus.orange.haus
+description: Janus allows for server owners to control access using Twitch. You can set requirements to join based on subscription status, follower status, or watch time requirements. It can be combined with multiple Twitch streamers to make a networked server or be used individually. Janus requires a one time $12 purchase to activate a streamer account. 
+---
